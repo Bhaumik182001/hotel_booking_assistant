@@ -1,0 +1,5422 @@
+{
+  "goa": [
+    {
+      "hotel": {
+        "name": "Goa Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8124.82",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18544.83",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7940.18",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10428.40",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10569.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2925.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3600.03",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15913.49",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19214.44",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10475.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8889.80",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18143.54",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15746.70",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15145.71",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7852.85",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18912.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8290.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4271.25",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15783.44",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17470.86",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14939.89",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14935.71",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12674.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3500.73",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8904.21",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19153.61",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10890.13",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12759.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11860.15",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Goa Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9503.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "delhi": [
+    {
+      "hotel": {
+        "name": "Delhi Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16850.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5350.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16153.55",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7495.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9182.17",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8288.89",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13171.62",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14291.70",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16666.73",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10929.76",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14444.31",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5388.19",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5611.93",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19299.43",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13256.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19726.49",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17083.88",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10615.20",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16594.96",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8954.60",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16885.77",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4266.97",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6904.69",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3664.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10884.51",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19515.29",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15274.94",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5930.06",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10091.07",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Delhi Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16439.75",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "mumbai": [
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4789.21",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18216.17",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10055.88",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15244.51",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5551.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17154.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19084.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11193.13",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17718.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6107.17",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3211.19",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18499.44",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14016.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15429.98",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15457.01",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7500.00",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15896.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9370.92",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7075.32",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3522.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12849.73",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8077.06",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10367.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14585.57",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12317.82",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16764.00",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18424.99",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4792.83",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14978.79",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Mumbai Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10441.60",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "bangalore": [
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15827.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18190.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10786.94",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18690.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13937.84",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17776.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5514.60",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13645.18",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9374.90",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16728.85",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9097.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11493.45",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19866.93",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19615.09",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8280.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12508.95",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12294.85",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5870.25",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12747.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16871.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16528.98",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16684.32",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13338.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10064.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14641.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2488.56",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10386.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16756.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11238.03",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Bangalore Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4560.65",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "hyderabad": [
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4532.92",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13127.57",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19136.34",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9182.40",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5096.98",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19591.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12077.54",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4110.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11887.84",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5405.19",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7320.73",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11622.48",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18083.81",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3328.03",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18797.51",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2105.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3662.37",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16126.89",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6922.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6308.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3048.31",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14104.69",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8846.14",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15511.18",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17290.45",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8855.74",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11889.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3167.25",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7070.98",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Hyderabad Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4904.22",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "chennai": [
+    {
+      "hotel": {
+        "name": "Chennai Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5374.44",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18442.94",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12436.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16628.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17766.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5719.64",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15287.09",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14616.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5097.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15158.86",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15217.23",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7757.62",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10848.71",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2980.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3496.96",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17970.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7300.78",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13945.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17784.23",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5909.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10591.83",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4832.80",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16233.11",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15156.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16259.16",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2797.67",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5763.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19733.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14782.71",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Chennai Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12901.58",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "kolkata": [
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2579.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18728.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5719.68",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14831.37",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5961.61",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4100.51",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18474.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13799.06",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12576.99",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3515.32",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2432.76",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6939.26",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7926.93",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12781.65",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8064.98",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12033.66",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15693.39",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19066.31",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7326.56",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3719.66",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8772.97",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9771.37",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3501.92",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12813.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11190.22",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13901.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4314.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7498.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19869.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Kolkata Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13228.65",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "jaipur": [
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14001.78",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12589.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12652.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14744.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19732.00",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13706.26",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2506.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7796.77",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8125.59",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4489.03",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18355.42",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10562.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5377.77",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14937.39",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4795.76",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3493.67",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13943.60",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3645.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14192.58",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19713.97",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10117.71",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2991.35",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5172.42",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4016.53",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3435.67",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6277.06",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13269.65",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14889.13",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13943.89",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19981.94",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "lucknow": [
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19941.95",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12025.49",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4410.13",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10301.41",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6741.75",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4813.99",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2976.79",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4918.69",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2727.35",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14534.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5860.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9066.06",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2839.07",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6269.15",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10083.48",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15586.25",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19197.79",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6507.96",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11785.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6700.57",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17664.67",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18307.92",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11193.69",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13229.66",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6783.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8703.60",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7623.76",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6744.16",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15377.75",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6169.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "ahmedabad": [
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13771.78",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2174.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11798.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14720.53",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15910.81",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2885.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12613.23",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11380.19",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11039.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7004.37",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 11"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7706.32",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 12"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2048.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 13"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17885.30",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 14"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9758.72",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 15"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19137.31",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 16"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19192.04",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 17"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12733.56",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 18"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10693.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 19"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12860.65",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 20"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5617.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 21"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12242.39",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 22"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12082.85",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 23"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2595.33",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 24"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11373.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 25"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5122.93",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 26"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5900.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 27"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18375.79",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 28"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10764.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 29"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9654.84",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "name": "Ahmedabad Hotel 30"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14441.42",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

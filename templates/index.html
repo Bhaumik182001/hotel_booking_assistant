@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HotelBot Chat</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="container">
+    <div class="chat-box">
+        {% for entry in chat_history %}
+            {% if entry.sender == 'bot' %}
+                <div class="message bot">
+                    {% set chunks = entry.text.split('-----------------------------') %}
+                    {% for chunk in chunks %}
+                        <div class="hotel-result">
+                            {{ chunk | safe }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <div class="message user">
+                    {{ entry.text | safe }}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+    <form action="/chat" method="POST">
+        <input type="text" name="message" placeholder="Type your hotel request..." required autocomplete="off">
+        <button type="submit">Send</button>
+    </form>
+</div>
+</body>
+</html>
