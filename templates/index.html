@@ -1,18 +1,109 @@
-
 <!DOCTYPE html>
 <html>
 <head>
     <title>HotelBot Chat</title>
     <link rel="stylesheet" href="/static/style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f7f7f7;
+        }
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .chat-box {
+            max-height: 60vh;
+            overflow-y: auto;
+            padding-bottom: 20px;
+        }
+        .message {
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+        .message.user {
+            text-align: right;
+            color: #333;
+        }
+        .message.bot {
+            text-align: left;
+        }
+        .hotel-result {
+            background: #eef6ff;
+            padding: 15px;
+            margin: 10px 0;
+            border-left: 5px solid #3399ff;
+            border-radius: 6px;
+        }
+        .hotel-result h3 {
+            margin-top: 0;
+            font-size: 1.1em;
+        }
+        .features-section {
+            background: #ffffff;
+            border: 1px dashed #ccc;
+            border-radius: 4px;
+            padding: 8px 12px;
+            margin-top: 8px;
+        }
+        .features-section ul {
+            padding-left: 20px;
+            margin: 0;
+        }
+        .features-section li {
+            list-style-type: none;
+            margin: 4px 0;
+        }
+        .features-section li::before {
+            content: "✨ ";
+            margin-right: 4px;
+        }
+        form {
+            margin-top: 15px;
+            display: flex;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 1em;
+        }
+        button {
+            padding: 10px 15px;
+            font-size: 1em;
+            margin-left: 10px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
+    <h1 style="
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+    color: #004aad;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+">
+    🏨 Hotel Chatbot
+</h1>
 <div class="container">
-    <div class="chat-box">
+    <div class="chat-box" id="chat-container">
         {% for entry in chat_history %}
             {% if entry.sender == 'bot' %}
                 <div class="message bot">
-                    {% set chunks = entry.text.split('-----------------------------') %}
-                    {% for chunk in chunks %}
+                    {% set chunks = entry.text.split('---------------------') %}
+                    {% for chunk in chunks if chunk.strip() %}
                         <div class="hotel-result">
                             {{ chunk | safe }}
                         </div>
@@ -30,5 +121,15 @@
         <button type="submit">Send</button>
     </form>
 </div>
+<script>
+  window.onload = function () {
+    const chatBox = document.getElementById("chat-container");
+    if (chatBox) {
+      chatBox.scrollTop = chatBox.scrollHeight;
+    } else {
+      window.scrollTo(0, document.body.scrollHeight);
+    }
+  };
+</script>
 </body>
 </html>

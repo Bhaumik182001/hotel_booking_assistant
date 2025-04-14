@@ -1,0 +1,1922 @@
+{
+  "goa": [
+    {
+      "hotel": {
+        "name": "Taj Fort Aguada Resort & Spa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8124.82",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Complimentary Drinks, Mini Fridge, Sea View, Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ],
+      "rating": 4.4
+    },
+    {
+      "hotel": {
+        "name": "The Leela Goa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18544.83",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access, Lounge Access, Desk Area, Soundproof Rooms, Rain Shower, High-Speed Wi-Fi"
+            }
+          }
+        }
+      ],
+      "rating": 3.2
+    },
+    {
+      "hotel": {
+        "name": "Grand Hyatt Goa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7940.18",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "City Skyline View, includes Breakfast, Luxury Room with Sea View and Balcony, Sea View, Breakfast Included, Soundproof Rooms"
+            }
+          }
+        }
+      ],
+      "rating": 3.9
+    },
+    {
+      "hotel": {
+        "name": "Alila Diwa Goa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10428.40",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Pool Access, Lounge Access, includes Breakfast, Rain Shower, High-Speed Wi-Fi, Luxury Room with Sea View and Balcony, Desk Area, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "Park Hyatt Goa Resort"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10569.27",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Garden View, Rooftop Room with Panoramic View and Bathtub, Mini Fridge, Hardwood Floors, Breakfast Included, Netflix Access, Lounge Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "W Goa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2925.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Complimentary Drinks, Hardwood Floors, Mini Fridge, Garden View, Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 3.7
+    },
+    {
+      "hotel": {
+        "name": "ITC Grand Goa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3600.03",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Rain Shower, Executive Room with Workspace and Complimentary Drinks, Sea View, Soundproof Rooms, Hardwood Floors, Lounge Access"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "Planet Hollywood Beach Resort"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15913.49",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower, Balcony with Ocean View, Soundproof Rooms, High-Speed Wi-Fi, Smart TV"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "Novotel Goa Candolim"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19214.44",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "High-Speed Wi-Fi, Garden View, Rooftop Seating, Spacious Room with King Bed and Smart TV, Pool Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "Marriott Resort & Spa Goa"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10475.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, Rooftop Seating, Balcony with Ocean View, Rain Shower, Garden View, Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ],
+      "rating": 3.8
+    }
+  ],
+  "delhi": [
+    {
+      "hotel": {
+        "name": "The Leela Palace New Delhi"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16850.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Smart TV, Netflix Access, City Skyline View, High-Speed Wi-Fi, Elegant Room with Hardwood Floors and Rain Shower, Breakfast Included, Balcony with Ocean View"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    },
+    {
+      "hotel": {
+        "name": "Taj Mahal Hotel"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5350.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Desk Area, Smart TV, City Skyline View, Balcony with Ocean View, Mini Fridge, Breakfast Included, Budget Friendly Room near Railway Station, High-Speed Wi-Fi"
+            }
+          }
+        }
+      ],
+      "rating": 4.9
+    },
+    {
+      "hotel": {
+        "name": "The Imperial"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16153.55",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Spacious Room with King Bed and Smart TV, Mini Fridge, City Skyline View, Sea View, Air Conditioning, Desk Area"
+            }
+          }
+        }
+      ],
+      "rating": 4.2
+    },
+    {
+      "hotel": {
+        "name": "Shangri-La Eros Hotel"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7495.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Budget Friendly Room near Railway Station, City Skyline View, High-Speed Wi-Fi"
+            }
+          }
+        }
+      ],
+      "rating": 4.3
+    },
+    {
+      "hotel": {
+        "name": "The Oberoi"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9182.17",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Sea View, Rain Shower, Executive Room with Workspace and Complimentary Drinks, Balcony with Ocean View, Complimentary Drinks, City Skyline View"
+            }
+          }
+        }
+      ],
+      "rating": 3.1
+    },
+    {
+      "hotel": {
+        "name": "JW Marriott New Delhi"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8288.89",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Desk Area, Hardwood Floors, Premium Suite with Lounge Access and City View, Smart TV, Rain Shower, Balcony with Ocean View, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "Hyatt Regency Delhi"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13171.62",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Seating, Balcony with Ocean View, Soundproof Rooms, City Skyline View, Air Conditioning, Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    },
+    {
+      "hotel": {
+        "name": "ITC Maurya"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14291.70",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Balcony with Ocean View, Rain Shower, Air Conditioning, Hardwood Floors, Lounge Access, Complimentary Drinks, Standard AC Room with Free Wi-Fi and Mini Fridge, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "Roseate House"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16666.73",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Rooftop Seating, Hardwood Floors, Lounge Access, High-Speed Wi-Fi, Mini Fridge, Spacious Room with King Bed and Smart TV"
+            }
+          }
+        }
+      ],
+      "rating": 3.5
+    },
+    {
+      "hotel": {
+        "name": "Radisson Blu Plaza Delhi"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10929.76",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Desk Area, Rooftop Seating, Pool Access, Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    }
+  ],
+  "mumbai": [
+    {
+      "hotel": {
+        "name": "The Taj Mahal Palace"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4789.21",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Deluxe Garden Room with Pool Access, Hardwood Floors, City Skyline View, Air Conditioning, Rain Shower, Lounge Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "The Oberoi Mumbai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18216.17",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Pool Access, Hardwood Floors, Netflix Access, Smart TV, Lounge Access, Family Room with Bunk Beds and Netflix Access, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 3.4
+    },
+    {
+      "hotel": {
+        "name": "Trident Nariman Point"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10055.88",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Lounge Access, Air Conditioning, Budget Friendly Room near Railway Station, Netflix Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.4
+    },
+    {
+      "hotel": {
+        "name": "JW Marriott Juhu"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15244.51",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Soundproof Rooms, Deluxe Garden Room with Pool Access, Pool Access, High-Speed Wi-Fi, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "St. Regis Mumbai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5551.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "High-Speed Wi-Fi, Deluxe Garden Room with Pool Access, Desk Area, Complimentary Drinks, Lounge Access"
+            }
+          }
+        }
+      ],
+      "rating": 3.7
+    },
+    {
+      "hotel": {
+        "name": "ITC Grand Central"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17154.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "High-Speed Wi-Fi, Executive Room with Workspace and Complimentary Drinks, Rain Shower, Sea View, Garden View, Netflix Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.0
+    },
+    {
+      "hotel": {
+        "name": "Four Seasons Hotel Mumbai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19084.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Mini Fridge, Lounge Access, Sea View, Budget Friendly Room near Railway Station, Rooftop Seating"
+            }
+          }
+        }
+      ],
+      "rating": 4.4
+    },
+    {
+      "hotel": {
+        "name": "Hotel Marine Plaza"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11193.13",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Breakfast Included, Smart TV, Spacious Room with King Bed and Smart TV, City Skyline View, Pool Access"
+            }
+          }
+        }
+      ],
+      "rating": 3.2
+    },
+    {
+      "hotel": {
+        "name": "Sahara Star"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17718.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Family Room with Bunk Beds and Netflix Access, Rooftop Seating, Complimentary Drinks, Hardwood Floors, Netflix Access, Desk Area, Balcony with Ocean View, Lounge Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "Hotel Sea Princess"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6107.17",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Lounge Access, Luxury Room with Sea View and Balcony, Garden View, Smart TV, Rooftop Seating, includes Breakfast, Air Conditioning, Soundproof Rooms, Pool Access"
+            }
+          }
+        }
+      ],
+      "rating": 3.8
+    }
+  ],
+  "bangalore": [
+    {
+      "hotel": {
+        "name": "The Oberoi Bengaluru"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15827.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Complimentary Drinks, Mini Fridge, Sea View, Hardwood Floors, Rooftop Seating, Premium Suite with Lounge Access and City View"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "ITC Gardenia"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18190.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks, Mini Fridge, Pool Access, Balcony with Ocean View, Complimentary Drinks"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "Taj West End"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10786.94",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Hardwood Floors, includes Breakfast, Mini Fridge, Rain Shower, Luxury Room with Sea View and Balcony, Complimentary Drinks"
+            }
+          }
+        }
+      ],
+      "rating": 4.4
+    },
+    {
+      "hotel": {
+        "name": "Shangri-La Bengaluru"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18690.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Desk Area, Hardwood Floors, Complimentary Drinks, Smart TV, Netflix Access, Family Room with Bunk Beds and Netflix Access, Rain Shower, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    },
+    {
+      "hotel": {
+        "name": "The Leela Palace Bengaluru"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13937.84",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Garden View, Complimentary Drinks, Lounge Access, Sea View, Soundproof Rooms, Mini Fridge, Pool Access, Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "JW Marriott Hotel Bengaluru"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17776.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Seating, Hardwood Floors, City Skyline View, High-Speed Wi-Fi, Lounge Access, Balcony with Ocean View, Elegant Room with Hardwood Floors and Rain Shower, Soundproof Rooms"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "Conrad Bengaluru"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5514.60",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Soundproof Rooms, Desk Area, Rooftop Seating, Spacious Room with King Bed and Smart TV, High-Speed Wi-Fi, Garden View, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 4.2
+    },
+    {
+      "hotel": {
+        "name": "Radisson Blu Atria"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13645.18",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Balcony with Ocean View, Rain Shower, Air Conditioning, Pool Access, Rooftop Seating, High-Speed Wi-Fi, Elegant Room with Hardwood Floors and Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    },
+    {
+      "hotel": {
+        "name": "The Ritz-Carlton Bangalore"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9374.90",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Hardwood Floors, Air Conditioning, Pool Access, Sea View, Balcony with Ocean View, City Skyline View, Rooftop Seating, Deluxe Garden Room with Pool Access"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    },
+    {
+      "hotel": {
+        "name": "Vivanta Bengaluru"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16728.85",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Breakfast Included, High-Speed Wi-Fi, Premium Suite with Lounge Access and City View, Balcony with Ocean View"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    }
+  ],
+  "hyderabad": [
+    {
+      "hotel": {
+        "name": "Taj Falaknuma Palace"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4532.92",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower, Netflix Access, Rooftop Seating, City Skyline View, Smart TV, Rain Shower, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 4.9
+    },
+    {
+      "hotel": {
+        "name": "Park Hyatt Hyderabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13127.57",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rain Shower, Desk Area, Smart TV, Premium Suite with Lounge Access and City View, Complimentary Drinks, Lounge Access, Sea View, Soundproof Rooms"
+            }
+          }
+        }
+      ],
+      "rating": 3.2
+    },
+    {
+      "hotel": {
+        "name": "ITC Kohenur"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19136.34",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Spacious Room with King Bed and Smart TV, Mini Fridge, Air Conditioning, Complimentary Drinks"
+            }
+          }
+        }
+      ],
+      "rating": 3.4
+    },
+    {
+      "hotel": {
+        "name": "The Westin Hyderabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "9182.40",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Balcony with Ocean View, Mini Fridge, Hardwood Floors, Rooftop Seating, Budget Friendly Room near Railway Station, Smart TV, Desk Area, Lounge Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.9
+    },
+    {
+      "hotel": {
+        "name": "Novotel Hyderabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5096.98",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Elegant Room with Hardwood Floors and Rain Shower, High-Speed Wi-Fi, Lounge Access, Pool Access, Complimentary Drinks, Netflix Access, Sea View"
+            }
+          }
+        }
+      ],
+      "rating": 3.9
+    },
+    {
+      "hotel": {
+        "name": "Radisson Blu Plaza Banjara Hills"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19591.12",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Rain Shower, Complimentary Drinks, Lounge Access, includes Breakfast, Pool Access, Luxury Room with Sea View and Balcony"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "Vivanta Hyderabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12077.54",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Desk Area, Budget Friendly Room near Railway Station, Breakfast Included, Smart TV, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 3.5
+    },
+    {
+      "hotel": {
+        "name": "Hyatt Place Hyderabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4110.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Soundproof Rooms, Smart TV, Luxury Room with Sea View and Balcony, Sea View, Mini Fridge, includes Breakfast"
+            }
+          }
+        }
+      ],
+      "rating": 3.7
+    },
+    {
+      "hotel": {
+        "name": "Trident Hyderabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11887.84",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rain Shower, Balcony with Ocean View, Netflix Access, Lounge Access, High-Speed Wi-Fi, Pool Access, Desk Area, Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "Marriott Hotel & Convention Centre"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5405.19",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Balcony with Ocean View, Netflix Access, Rain Shower, Spacious Room with King Bed and Smart TV, City Skyline View, Desk Area, Hardwood Floors, Soundproof Rooms"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    }
+  ],
+  "chennai": [
+    {
+      "hotel": {
+        "name": "Taj Coromandel"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5374.44",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, Rain Shower, Spacious Room with King Bed and Smart TV, Sea View, Netflix Access, Hardwood Floors"
+            }
+          }
+        }
+      ],
+      "rating": 4.3
+    },
+    {
+      "hotel": {
+        "name": "The Leela Palace Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18442.94",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Elegant Room with Hardwood Floors and Rain Shower, Breakfast Included, Garden View, High-Speed Wi-Fi, Desk Area"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "ITC Grand Chola"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12436.91",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Hardwood Floors, Breakfast Included, Luxury Room with Sea View and Balcony, includes Breakfast"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    },
+    {
+      "hotel": {
+        "name": "The Raintree St. Mary's"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "16628.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Mini Fridge, Smart TV, High-Speed Wi-Fi, Standard AC Room with Free Wi-Fi and Mini Fridge, Complimentary Drinks"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "Park Hyatt Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "17766.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rain Shower, Mini Fridge, Sea View, Desk Area, Family Room with Bunk Beds and Netflix Access, Netflix Access"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "Hilton Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5719.64",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Soundproof Rooms, Breakfast Included, Rain Shower, Hardwood Floors, Netflix Access, Balcony with Ocean View, Air Conditioning, Standard AC Room with Free Wi-Fi and Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 4.2
+    },
+    {
+      "hotel": {
+        "name": "Hyatt Regency Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15287.09",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Air Conditioning, Hardwood Floors, Standard AC Room with Free Wi-Fi and Mini Fridge, Rooftop Seating, Balcony with Ocean View"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    },
+    {
+      "hotel": {
+        "name": "Radisson Blu Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14616.47",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub, Complimentary Drinks, Pool Access, Sea View, Garden View, Balcony with Ocean View, Air Conditioning, High-Speed Wi-Fi"
+            }
+          }
+        }
+      ],
+      "rating": 3.9
+    },
+    {
+      "hotel": {
+        "name": "Courtyard by Marriott Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5097.24",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge, Garden View, Smart TV, Lounge Access, Desk Area, Air Conditioning, Hardwood Floors, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "Trident Chennai"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15158.86",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "High-Speed Wi-Fi, City Skyline View, Spacious Room with King Bed and Smart TV, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    }
+  ],
+  "kolkata": [
+    {
+      "hotel": {
+        "name": "ITC Royal Bengal"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2579.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Complimentary Drinks, Breakfast Included, Netflix Access, includes Breakfast, Luxury Room with Sea View and Balcony"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "The Oberoi Grand Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18728.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Desk Area, Rooftop Seating, Complimentary Drinks, Air Conditioning, Balcony with Ocean View, Standard AC Room with Free Wi-Fi and Mini Fridge, Hardwood Floors"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    },
+    {
+      "hotel": {
+        "name": "Taj Bengal"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5719.68",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, Balcony with Ocean View, Rain Shower, Pool Access, Premium Suite with Lounge Access and City View, Desk Area"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "The Lalit Great Eastern Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14831.37",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Premium Suite with Lounge Access and City View, Netflix Access, Lounge Access, High-Speed Wi-Fi, Complimentary Drinks, Desk Area, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 4.9
+    },
+    {
+      "hotel": {
+        "name": "JW Marriott Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "5961.61",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Smart TV, Netflix Access, Complimentary Drinks, Deluxe Garden Room with Pool Access, Rooftop Seating"
+            }
+          }
+        }
+      ],
+      "rating": 4.4
+    },
+    {
+      "hotel": {
+        "name": "The Westin Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4100.51",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Seating, Desk Area, Balcony with Ocean View, Air Conditioning, Garden View, Soundproof Rooms, Hardwood Floors, Executive Room with Workspace and Complimentary Drinks"
+            }
+          }
+        }
+      ],
+      "rating": 3.2
+    },
+    {
+      "hotel": {
+        "name": "Hyatt Regency Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "18474.63",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Rain Shower, Smart TV, Deluxe Garden Room with Pool Access, Garden View, Desk Area, High-Speed Wi-Fi, Mini Fridge"
+            }
+          }
+        }
+      ],
+      "rating": 4.4
+    },
+    {
+      "hotel": {
+        "name": "Holiday Inn Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13799.06",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Luxury Room with Sea View and Balcony, Air Conditioning, Sea View, Soundproof Rooms, includes Breakfast, Desk Area"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    },
+    {
+      "hotel": {
+        "name": "The Park Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12576.99",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge, City Skyline View, Rain Shower, Breakfast Included, Smart TV"
+            }
+          }
+        }
+      ],
+      "rating": 3.2
+    },
+    {
+      "hotel": {
+        "name": "Novotel Kolkata"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "3515.32",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Mini Fridge, Pool Access, Rooftop Room with Panoramic View and Bathtub, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    }
+  ],
+  "jaipur": [
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14001.78",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, High-Speed Wi-Fi, City Skyline View, Rooftop Room with Panoramic View and Bathtub, Rooftop Seating, Balcony with Ocean View, Desk Area"
+            }
+          }
+        }
+      ],
+      "rating": 4.1
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12589.52",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Pool Access, Budget Friendly Room near Railway Station, Soundproof Rooms, Smart TV"
+            }
+          }
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12652.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Soundproof Rooms, Air Conditioning, Lounge Access, Mini Fridge, Budget Friendly Room near Railway Station"
+            }
+          }
+        }
+      ],
+      "rating": 3.9
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14744.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Breakfast Included, Budget Friendly Room near Railway Station, Pool Access, Smart TV, Rooftop Seating, Mini Fridge, Garden View"
+            }
+          }
+        }
+      ],
+      "rating": 4.9
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19732.00",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station, Balcony with Ocean View, City Skyline View, Lounge Access, Rain Shower, Soundproof Rooms, High-Speed Wi-Fi"
+            }
+          }
+        }
+      ],
+      "rating": 3.2
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13706.26",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Hardwood Floors, Soundproof Rooms, Premium Suite with Lounge Access and City View, Air Conditioning, Breakfast Included"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2506.10",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, Rooftop Room with Panoramic View and Bathtub, Air Conditioning, Rooftop Seating"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7796.77",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge, Complimentary Drinks, Hardwood Floors, Desk Area, Soundproof Rooms"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "8125.59",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, Balcony with Ocean View, Budget Friendly Room near Railway Station, Pool Access, Sea View, Rooftop Seating, High-Speed Wi-Fi, Netflix Access"
+            }
+          }
+        }
+      ],
+      "rating": 3.3
+    },
+    {
+      "hotel": {
+        "name": "Jaipur Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4489.03",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Balcony with Ocean View, Budget Friendly Room near Railway Station, Netflix Access, Rain Shower, Sea View"
+            }
+          }
+        }
+      ],
+      "rating": 3.4
+    }
+  ],
+  "lucknow": [
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 1"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "19941.95",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub, Soundproof Rooms, Smart TV, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 3.9
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 2"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12025.49",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Pool Access, Sea View, Lounge Access, Premium Suite with Lounge Access and City View, Hardwood Floors"
+            }
+          }
+        }
+      ],
+      "rating": 4.0
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 3"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4410.13",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Balcony with Ocean View, City Skyline View, Garden View, Complimentary Drinks, Luxury Room with Sea View and Balcony, Mini Fridge, includes Breakfast"
+            }
+          }
+        }
+      ],
+      "rating": 3.0
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 4"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "10301.41",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "City Skyline View, includes Breakfast, Luxury Room with Sea View and Balcony, Air Conditioning, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 5"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "6741.75",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Spacious Room with King Bed and Smart TV, Sea View, Breakfast Included, Soundproof Rooms, Desk Area, Air Conditioning, Complimentary Drinks"
+            }
+          }
+        }
+      ],
+      "rating": 3.5
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 6"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4813.99",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks, Hardwood Floors, Netflix Access, Breakfast Included, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 3.5
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 7"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2976.79",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Garden View, High-Speed Wi-Fi, Desk Area, Rooftop Room with Panoramic View and Bathtub"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 8"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "4918.69",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Lounge Access, High-Speed Wi-Fi, Desk Area, Premium Suite with Lounge Access and City View, Sea View"
+            }
+          }
+        }
+      ],
+      "rating": 3.8
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 9"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2727.35",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rain Shower, City Skyline View, Netflix Access, Lounge Access, Rooftop Seating, Mini Fridge, Spacious Room with King Bed and Smart TV, Balcony with Ocean View"
+            }
+          }
+        }
+      ],
+      "rating": 4.9
+    },
+    {
+      "hotel": {
+        "name": "Lucknow Hotel 10"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14534.87",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Standard AC Room with Free Wi-Fi and Mini Fridge, Smart TV, Hardwood Floors, Netflix Access, Balcony with Ocean View, Sea View, Rooftop Seating"
+            }
+          }
+        }
+      ],
+      "rating": 3.9
+    }
+  ],
+  "ahmedabad": [
+    {
+      "hotel": {
+        "name": "Hyatt Regency Ahmedabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "13771.78",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Mini Fridge, Pool Access, Sea View, Lounge Access, Breakfast Included, Hardwood Floors, Budget Friendly Room near Railway Station, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 4.2
+    },
+    {
+      "hotel": {
+        "name": "Courtyard by Marriott Ahmedabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2174.38",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "High-Speed Wi-Fi, Rain Shower, Breakfast Included, Spacious Room with King Bed and Smart TV, Garden View"
+            }
+          }
+        }
+      ],
+      "rating": 3.4
+    },
+    {
+      "hotel": {
+        "name": "The Fern Ahmedabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11798.05",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Rooftop Room with Panoramic View and Bathtub, High-Speed Wi-Fi, Soundproof Rooms, Breakfast Included, Netflix Access, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "hotel": {
+        "name": "Fortune Landmark"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "14720.53",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Netflix Access, Spacious Room with King Bed and Smart TV, City Skyline View, Complimentary Drinks, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 4.6
+    },
+    {
+      "hotel": {
+        "name": "Hotel Pride Plaza"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "15910.81",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Sea View, Rain Shower, Garden View, Rooftop Seating, Rooftop Room with Panoramic View and Bathtub, Breakfast Included, Air Conditioning"
+            }
+          }
+        }
+      ],
+      "rating": 4.2
+    },
+    {
+      "hotel": {
+        "name": "Radisson Blu Ahmedabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "2885.46",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Pool Access, Smart TV, Netflix Access, Complimentary Drinks, Rooftop Room with Panoramic View and Bathtub, Sea View, Desk Area"
+            }
+          }
+        }
+      ],
+      "rating": 3.8
+    },
+    {
+      "hotel": {
+        "name": "Renaissance Ahmedabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "12613.23",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station, Hardwood Floors, Rooftop Seating, Sea View, Complimentary Drinks, City Skyline View"
+            }
+          }
+        }
+      ],
+      "rating": 4.8
+    },
+    {
+      "hotel": {
+        "name": "Novotel Ahmedabad"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11380.19",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Executive Room with Workspace and Complimentary Drinks, Pool Access, Breakfast Included, Complimentary Drinks, Balcony with Ocean View"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "Hotel El Dorado"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "11039.36",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Budget Friendly Room near Railway Station, Rain Shower, Netflix Access, Rooftop Seating, Lounge Access, Air Conditioning, Garden View"
+            }
+          }
+        }
+      ],
+      "rating": 4.7
+    },
+    {
+      "hotel": {
+        "name": "Hotel Carrefour"
+      },
+      "offers": [
+        {
+          "price": {
+            "total": "7004.37",
+            "currency": "INR"
+          },
+          "room": {
+            "description": {
+              "text": "Smart TV, Pool Access, Family Room with Bunk Beds and Netflix Access, Rain Shower"
+            }
+          }
+        }
+      ],
+      "rating": 3.6
+    }
+  ]
+}

@@ -1,105 +1,227 @@
-
 from flask import Flask, render_template, request, session, redirect, url_for
 from flask_session import Session
-import re
-import json
-import random
+from amadeus import Client, ResponseError
+import re, json, random, difflib, urllib.parse
 from datetime import datetime, timedelta
-import urllib.parse
-import difflib
 
 app = Flask(__name__)
 app.secret_key = 'hotelbotsecretkey'
 app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
+amadeus = Client(
+    client_id='YOUR_API_KEY',
+    client_secret='YOUR_API_SECRET'
+)
+
+city_map = {
+    'delhi': 'DEL', 'goa': 'GOI', 'mumbai': 'BOM', 'bangalore': 'BLR', 'hyderabad': 'HYD',
+    'chennai': 'MAA', 'kolkata': 'CCU', 'jaipur': 'JAI', 'lucknow': 'LKO', 'ahmedabad': 'AMD',
+    'pune': 'PNQ', 'nagpur': 'NAG', 'kochi': 'COK', 'coimbatore': 'CJB', 'indore': 'IDR',
+    'bhubaneswar': 'BBI', 'guwahati': 'GAU', 'surat': 'STV', 'rajkot': 'RAJ', 'amritsar': 'ATQ',
+    'varanasi': 'VNS', 'vizag': 'VTZ', 'trivandrum': 'TRV', 'mysore': 'MYQ', 'aurangabad': 'IXU',
+    'dehradun': 'DED', 'ranchi': 'IXR', 'jodhpur': 'JDH', 'ludhiana': 'LUH', 'jalandhar': 'IXJ',
+    'patiala': 'IXC', 'bathinda': 'BUP', 'mohali': 'IXC', 'firozpur': 'IXC', 'hoshiarpur': 'IXC',
+    'pathankot': 'IXP', 'fazilka': 'IXC', 'barnala': 'IXC', 'mansa': 'IXC', 'sangrur': 'IXC',
+    'kapurthala': 'IXC', 'london': 'LON', 'newyork': 'NYC', 'dubai': 'DXB', 'paris': 'PAR',
+    'tokyo': 'TYO', 'sydney': 'SYD', 'singapore': 'SIN', 'toronto': 'YTO'
+}
+
 def parse_message(message):
     city_match = re.search(r'in (\w+)', message.lower())
-    city = city_match.group(1).lower() if city_match else "goa"
+    city_word = city_match.group(1).lower() if city_match else 'goa'
 
-    date_range_match = re.search(r'from (\d{1,2})[a-z]{0,2}\s+([a-z]+)(?:\s+\d{4})?\s*(?:to|till|until|-)\s*(\d{1,2})[a-z]{0,2}\s+([a-z]+)', message.lower())
-    days_stay_match = re.search(r'for (\d+) (day|days|night|nights)', message.lower())
+    # fuzzy city match
+    fuzzy_city = difflib.get_close_matches(city_word, list(city_map.keys()), n=1, cutoff=0.6)
+    if fuzzy_city:
+        print(f"🧠 Fuzzy matched '{city_word}' to '{fuzzy_city[0]}'")
+        city_word = fuzzy_city[0]
 
-    if date_range_match:
-        start_day = int(date_range_match.group(1))
-        start_month = date_range_match.group(2)
-        end_day = int(date_range_match.group(3))
-        end_month = date_range_match.group(4)
+    city = city_map.get(city_word, 'GOI')
 
-        checkin = datetime.strptime(f"{start_day} {start_month} 2025", "%d %B %Y")
-        checkout = datetime.strptime(f"{end_day} {end_month} 2025", "%d %B %Y")
+    # Check for date range
+    range_match = re.search(r'from (\d{1,2})\w*\s+([A-Za-z]+).*?(?:to|till|-).*?(\d{1,2})\w*\s+([A-Za-z]+)', message)
+    duration_match = re.search(r'for (\d+)\s*(day|days|night|nights|week|weeks|month|months|year|years)', message.lower())
+
+    if range_match:
+        d1, m1, d2, m2 = range_match.groups()
+        checkin = datetime.strptime(f"{d1} {m1} 2025", "%d %B %Y")
+        checkout = datetime.strptime(f"{d2} {m2} 2025", "%d %B %Y")
     else:
         checkin = datetime.today()
-        if days_stay_match:
-            days = int(days_stay_match.group(1))
-            checkout = checkin + timedelta(days=days)
+        if duration_match:
+            num, unit = int(duration_match.group(1)), duration_match.group(2)
+            if "week" in unit:
+                stay_length = num * 7
+            elif "month" in unit:
+                stay_length = num * 30
+            elif "year" in unit:
+                stay_length = num * 365
+            else:
+                stay_length = num
         else:
-            checkout = checkin + timedelta(days=1)
+            stay_length = 1
+        checkout = checkin + timedelta(days=stay_length)
 
-    people_match = re.search(r'(\d+)\s+(adult|person|people)', message.lower())
-    adults = people_match.group(1) if people_match else "1"
+    people = re.search(r'(\d+)\s+(adult|person|people)', message.lower())
+    adults = people.group(1) if people else "1"
 
-    return city, checkin.strftime("%Y-%m-%d"), checkout.strftime("%Y-%m-%d"), adults
+    return city, checkin.strftime("%Y-%m-%d"), checkout.strftime("%Y-%m-%d"), adults, city_word
 
-@app.route('/', methods=['GET'])
+@app.route("/", methods=["GET"])
 def index():
-    if 'chat' not in session or not session['chat']:
-        session['chat'] = [{'sender': 'bot', 'text': '👋 How can I help you today?'}]
-    return render_template('index.html', chat_history=session['chat'])
+    if "chat" not in session or not session["chat"]:
+        session["chat"] = [{"sender": "bot", "text": "👋 How can I help you today?"}]
+    return render_template("index.html", chat_history=session["chat"])
 
-@app.route('/chat', methods=['POST'])
+@app.route("/chat", methods=["POST"])
 def chat():
-    message = request.form['message']
-    session['chat'].append({'sender': 'user', 'text': message})
+    message = request.form["message"]
+    # Clear chat if user asks to reset
+    reset_phrases = ["clear", "reset", "start over", "begin again", "start from beginning"]
+    if any(phrase in message.lower() for phrase in reset_phrases):
+        session["chat"] = [{"sender": "bot", "text": "👋 How can I help you today?"}]
+        return redirect(url_for("index"))
+    session["chat"].append({"sender": "user", "text": message})
+    include_links = "book" in message.lower()
 
-    city, checkin, checkout, adults = parse_message(message)
+    city, checkin, checkout, adults, city_word = parse_message(message)
 
-    with open("all_mock_hotels_updated.json", "r") as mf:
-        all_hotels_dict = json.load(mf)
-        all_hotels = all_hotels_dict.get(city.lower(), [])
+    valid_hotels = []
+    city_mock = []
 
-    if "book" in message.lower() or "details" in message.lower() or "contact" in message.lower():
-        hotel_names = [hotel["hotel"]["name"].lower() for hotel in all_hotels]
-        matches = difflib.get_close_matches(message.lower(), hotel_names, n=1, cutoff=0.4)
-        if matches:
-            for hotel in all_hotels:
-                if hotel["hotel"]["name"].lower() == matches[0]:
-                    query = urllib.parse.quote_plus(hotel["hotel"]["name"] + " " + city)
-                    gmaps = f"https://www.google.com/maps/search/{query}"
-                    gsearch = f"https://www.google.com/search?q={query}"
-                    bot_text = f"""🔍 Here’s what I found for *{hotel['hotel']['name']}*:
-📍 <a href='{gmaps}' target='_blank'>Map</a> | 🔗 <a href='{gsearch}' target='_blank'>Search</a>
+    try:
+        with open("sample.json") as mf:
+            all_hotels = json.load(mf)
+            city_mock = all_hotels.get(city_word.lower(), [])
+            print(f"🧪 Loaded {len(city_mock)} mock hotels for {city_word.lower()}")
+    except Exception as e:
+        print("❌ Error loading mock data:", e)
 
-Can I help you with something else? 😊"""
-                    session['chat'].append({'sender': 'bot', 'text': bot_text})
-                    return redirect(url_for('index'))
+    try:
+        print(f"🌐 Searching for hotels in {city}")
+        hotel_resp = amadeus.reference_data.locations.hotel.get(
+            keyword=city_word,
+            subType='HOTEL_GDS',
+            view='FULL',
+            radius=50,
+            radiusUnit='KM'
+        )
+        hotel_ids = [h["hotelId"] for h in hotel_resp.data if "hotelId" in h]
+        print(f"🔗 Found hotel IDs: {hotel_ids}")
 
-    city_hotels = all_hotels_dict.get(city.lower(), [])
-    if not city_hotels:
-        session['chat'].append({'sender': 'bot', 'text': f"😕 Sorry, unable to find hotels in {city.title()}."})
-        return redirect(url_for('index'))
+        for hid in hotel_ids[:50]:
+            try:
+                offer = amadeus.shopping.hotel_offers_search.get(
+                    hotelIds=hid,
+                    checkInDate=checkin,
+                    checkOutDate=checkout,
+                    adults=adults
+                )
+                if offer.data:
+                    valid_hotels.extend(offer.data)
+            except Exception:
+                continue
+    except Exception as e:
+        print("❌ Amadeus API error:", e)
 
-    valid_hotels = random.sample(city_hotels, min(len(city_hotels), random.randint(2, 5)))
+    if len(valid_hotels) < 2 and city_mock:
+        print("⚠️ Fallback triggered. Using mock data.")
+        supplement = random.sample(city_mock, min(5, len(city_mock)))
+        valid_hotels.extend(supplement)
+        random.shuffle(valid_hotels)
 
-    reply = f"""Absolutely! Here's what I found in {city.upper()} from 📅 {checkin} to {checkout} for 👤 {adults}:
-"""
-    for h in valid_hotels:
-        name = h['hotel']['name']
-        price = h['offers'][0]['price']['total']
-        currency = h['offers'][0]['price']['currency']
-        desc = h['offers'][0]['room']['description']['text']
-        reply += f"""
-🏨 *{name}*
-💰 {price} {currency}/night
-🛏 {desc[:60]}... 😌
------------------------------"""
+    
+    
+    # Filter by feature keyword if present in message
+    feature_keywords = ["sea view", "balcony", "breakfast", "bathtub", "wifi", "netflix", "smart tv", "pool", "desk", "air conditioning", "garden", "city view", "mini fridge", "rain shower", "lounge", "hardwood", "soundproof"]
+    requested_feature = None
+    for keyword in feature_keywords:
+        if keyword in message.lower():
+            requested_feature = keyword
+            print(f"🔍 Filtering hotels by feature: {requested_feature}")
+            break
 
-    reply += """
-Let me know if you'd like help with anything else! 😊
-"""
-    session['chat'].append({'sender': 'bot', 'text': reply})
+    if requested_feature:
+        valid_hotels = [h for h in valid_hotels if requested_feature in h["offers"][0]["room"]["description"]["text"].lower()]
 
-    return redirect(url_for('index'))
+    # Sorting preference extraction
+    sort_by = None
+    if any(w in message.lower() for w in ["low to high", "cheapest", "price", "cost"]):
+        sort_by = "price"
+    elif any(w in message.lower() for w in ["rating", "best rated", "top rated"]):
+        sort_by = "rating"
+    elif any(w in message.lower() for w in ["most features", "more features", "detailed"]):
+        sort_by = "features"
 
-if __name__ == '__main__':
+    # Sort hotels
+    if sort_by == "price":
+        valid_hotels.sort(key=lambda h: float(h["offers"][0]["price"]["total"]))
+    elif sort_by == "rating":
+        valid_hotels.sort(key=lambda h: h.get("rating", 0), reverse=True)
+    elif sort_by == "features":
+        valid_hotels.sort(key=lambda h: len(h["offers"][0]["room"]["description"]["text"].split(",")), reverse=True)
+
+
+    if not valid_hotels and city_mock:
+        print("🔁 API gave no result. Using only mock data.")
+        valid_hotels = random.sample(city_mock, min(5, len(city_mock)))
+
+    if not valid_hotels:
+        session["chat"].append({"sender": "bot", "text": f"😞 Sorry, I couldn't find any hotels in {city}."})
+        return redirect(url_for("index"))
+
+    if any(word in message.lower() for word in ["book", "details", "contact"]):
+        names = [h["hotel"]["name"].lower() for h in valid_hotels if "hotel" in h]
+        match = difflib.get_close_matches(message.lower(), names, n=1, cutoff=0.4)
+        if match:
+            for h in valid_hotels:
+                if h["hotel"]["name"].lower() == match[0]:
+                    q = urllib.parse.quote_plus(h["hotel"]["name"] + " " + city_word)
+                    maps = f"https://www.google.com/maps/search/{q}"
+                    search = f"https://www.google.com/search?q={q}"
+                    msg = f"\n🔍 Found <b>*{h['hotel']['name']}*</b>\n📍 <a href='{maps}'>Map</a> | 🔗 <a href='{search}'>Search</a>\nCan I help you with anything else?"
+                    
+                    session["chat"].append({"sender": "bot", "text": msg})
+                    return redirect(url_for("index"))
+
+    reply = f"\n✨ Here are some great options in {city_word.title()} from 📅 {checkin} to {checkout} for 👤 {adults}:\n"
+    for h in valid_hotels[:random.randint(3, 5)]:
+        name = h["hotel"]["name"]
+        price = h["offers"][0]["price"]["total"]
+        currency = h["offers"][0]["price"]["currency"]
+        desc_text = h["offers"][0]["room"]["description"]["text"]
+
+        reply += f"\n🏨 <b style='font-size: 1.1em;'>{name}</b> ⭐ {h.get('rating', 'N/A')}/5"
+        reply += f"\n💰 <i>{price} {currency}/night</i>"
+        reply += f"\n✨ <u>Features:</u>"
+
+        lines = [d.strip() for d in re.split(r'[,.]', desc_text) if d.strip()]
+        for line in lines:
+            emoji = "📌"
+            lower = line.lower()
+            if "balcony" in lower: emoji = "🌅"
+            elif "breakfast" in lower: emoji = "🍳"
+            elif "bathtub" in lower: emoji = "🛁"
+            elif "wifi" in lower: emoji = "📶"
+            elif "tv" in lower or "netflix" in lower: emoji = "📺"
+            elif "workspace" in lower or "desk" in lower: emoji = "💼"
+            elif "view" in lower: emoji = "🏞️"
+            elif "pool" in lower: emoji = "🏊"
+            elif "king" in lower or "queen" in lower: emoji = "🛏️"
+            elif "ac" in lower or "air conditioning" in lower: emoji = "❄️"
+            desc_line = f"{emoji} {line.strip()}"
+            reply += f"\n{desc_line}"
+
+        if include_links:
+            q = urllib.parse.quote_plus(name + " " + city_word)
+            maps = f"https://www.google.com/maps/search/{q}"
+            search = f"https://www.google.com/search?q={q}"
+            reply += f"\n🔗 <a href='{search}'>Search</a> | <a href='{maps}'>Map</a>"
+
+        reply += "\n---------------------"
+    session["chat"].append({"sender": "bot", "text": reply})
+    return redirect(url_for("index"))
+
+if __name__ == "__main__":
     app.run(debug=True)
