@@ -5,9 +5,13 @@ import re, json, random, difflib, urllib.parse
 from datetime import datetime, timedelta
 
 app = Flask(__name__)
+
+app.config["SESSION_TYPE"] = "filesystem"
+app.config["SESSION_PERMANENT"] = False
+app.config["SESSION_USE_SIGNER"] = True
+app.config["SESSION_COOKIE_NAME"] = "session"  # ← Prevents session_cookie_name error
 app.secret_key = 'hotelbotsecretkey'
-app.config["SESSION_COOKIE_NAME"] = "session"
-app.config['SESSION_TYPE'] = 'filesystem'
+
 Session(app)
 
 amadeus = Client(
