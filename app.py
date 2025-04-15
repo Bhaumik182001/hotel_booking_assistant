@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 
 app = Flask(__name__)
 app.secret_key = 'hotelbotsecretkey'
+app.config["SESSION_COOKIE_NAME"] = "session"
 app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
