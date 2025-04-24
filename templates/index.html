@@ -91,17 +91,7 @@
     </header>
 
 <body>
-    <h1 style="
-    text-align: center;
-    font-size: 2.2em;
-    font-weight: bold;
-    font-family: 'Segoe UI', sans-serif;
-    color: #004aad;
-    margin-bottom: 15px;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-">
-    🏨 Hotel Chatbot
-</h1>
+ 
 <div class="container">
     <div class="chat-box" id="chat-container">
         {% for entry in chat_history %}
@@ -136,9 +126,16 @@
     }
   };
 </script>
-    <footer class="footer">
-        <p>&copy; 2024 Hotel Booking Assistant. All rights reserved.</p>
-    </footer>
+<footer class="footer">
+    <div class="footer-content">
+        <p>&copy; 2023 Hotel Booking Assistant. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+            <a href="#">Contact Us</a>
+        </div>
+    </div>
+</footer>
 
 </body>
 </html>
